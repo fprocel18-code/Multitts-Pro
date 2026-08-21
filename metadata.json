@@ -1,0 +1,6 @@
+{
+  "name": "Lector TTS de Voces",
+  "description": "Un lector avanzado de texto a voz neuronal con soporte para más de 80 voces en español, velocidad ajustable y control de tono.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
